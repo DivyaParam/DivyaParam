@@ -2,15 +2,15 @@
 
    Her key skills include:
 
-   -> Programming Languages: Python, JavaScript, PySpark, SQL, R
+   -> **Programming Languages**: Python, JavaScript, PySpark, SQL, R
    
-   -> BI Tools: Power BI, Tableau, Advanced Excel, QlikView, Salesforce, Azure DevOps
+   -> **BI Tools**: Power BI, Tableau, Advanced Excel, QlikView, Salesforce, Azure DevOps
    
-   -> Databases: MySQL, PostgreSQL, Oracle, Snowflake, Redshift, Metabase, NoSQL
+   -> **Databases**: MySQL, PostgreSQL, Oracle, Snowflake, Redshift, Metabase, NoSQL
    
-   -> Cloud Technologies: Spark, Databricks, Hadoop, Hive, Google Cloud Platform (GCP)
+   -> **Cloud Technologies**: Spark, Databricks, Hadoop, Hive, Google Cloud Platform (GCP)
    
-   -> Technical Expertise: Data Cleaning and Preparation, Statistical Analysis, Predictive Modeling, Data Visualization, ETL Processes, Data Warehousing
+   -> **Technical Expertise**: Data Cleaning and Preparation, Statistical Analysis, Predictive Modeling, Data Visualization, ETL Processes, Data Warehousing
 
 
   Currently, Divya is a Business Intelligence Analyst at Cathay Bank, where she has designs and developes reports, improving query execution time and server load. She has also created interactive dashboards that enhanced data-driven decision-making efficiency. Her role 
