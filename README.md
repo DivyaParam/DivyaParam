@@ -12,14 +12,14 @@
   Currently, Divya is a Business Intelligence Analyst at Cathay Bank, where she has designs and developes reports, improving query execution time and server load. She has also created interactive dashboards that enhanced data-driven decision-making efficiency. Her role 
   involves developing complex SQL queries and managing ETL processes, contributing to significant improvements in operational efficiency and data accuracy.
 
- Previously, as a Senior Data Analyst at Zoho Corporation, she led the development of automated dashboards and delivered insights that drove a 47% increase in ERP sales. Her work in data mining, ETL process design, and ad hoc data reporting added over $5k in annual 
- revenue for multiple clients.
+    Previously, as a Senior Data Analyst at Zoho Corporation, she led the development of automated dashboards and delivered insights that drove a 47% increase in ERP sales. Her work in data mining, ETL process design, and ad hoc data reporting added over $5k in annual 
+    revenue for multiple clients.
 
- During her internship with the City of Phoenix, she developed an ETL pipeline and designed an ER diagram to optimize water management practices, improving growth by 20%. She also held roles as a Junior Data Analyst at Pantech AI and a Data Engineer at Hewlett Packard, 
- where she developed custom codes and improved data capture and processing systems.
+    During her internship with the City of Phoenix, she developed an ETL pipeline and designed an ER diagram to optimize water management practices, improving growth by 20%. She also held roles as a Junior Data Analyst at Pantech AI and a Data Engineer at Hewlett Packard, 
+    where she developed custom codes and improved data capture and processing systems.
 
- Divya is passionate about leveraging her analytical skills and technical expertise to solve complex business problems and drive innovation. She aims to continue growing in the field of data analytics, taking on leadership roles where she can mentor junior analysts and 
- contribute to the strategic vision of the organization. 
+    Divya is passionate about leveraging her analytical skills and technical expertise to solve complex business problems and drive innovation. She aims to continue growing in the field of data analytics, taking on leadership roles where she can mentor junior analysts and 
+    contribute to the strategic vision of the organization. 
 
 
 - 👀 I’m interested in Python, MySQL, Tableau, Power BI, and Machine Learning.
