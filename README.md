@@ -1,8 +1,8 @@
 - 👋 Divya is a focused and performance-driven Senior Data Analyst with 5+ years of experience who brings with her a robust knowledge in business intelligence and data analytics, backed by a Master of Science in Information Systems- Data Analytics from Arizona State University where she graduated with a perfect GPA of 4.0 with extensive experience across various industry verticals including banking, supply chain management, and software development. She also specializes in transforming complex data into actionable insights to drive strategic business decisions.
 
-Her key skills include:
+   Her key skills include:
 
-Programming Languages: Python, JavaScript, PySpark, SQL, R
+   Programming Languages: Python, JavaScript, PySpark, SQL, R
 BI Tools: Power BI, Tableau, Advanced Excel, QlikView, Salesforce, Azure DevOps
 Databases: MySQL, PostgreSQL, Oracle, Snowflake, Redshift, Metabase, NoSQL
 Cloud Technologies: Spark, Databricks, Hadoop, Hive, Google Cloud Platform (GCP)
