@@ -4,9 +4,12 @@
 
    -> Programming Languages: Python, JavaScript, PySpark, SQL, R
    
--> BI Tools: Power BI, Tableau, Advanced Excel, QlikView, Salesforce, Azure DevOps
+   -> BI Tools: Power BI, Tableau, Advanced Excel, QlikView, Salesforce, Azure DevOps
+   
    -> Databases: MySQL, PostgreSQL, Oracle, Snowflake, Redshift, Metabase, NoSQL
+   
    -> Cloud Technologies: Spark, Databricks, Hadoop, Hive, Google Cloud Platform (GCP)
+   
    -> Technical Expertise: Data Cleaning and Preparation, Statistical Analysis, Predictive Modeling, Data Visualization, ETL Processes, Data Warehousing
 
 
